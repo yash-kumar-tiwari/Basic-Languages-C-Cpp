@@ -1,0 +1,16 @@
+PS G:\C\Class\4 Loops\for Loop> gcc nested_for_num.c
+PS G:\C\Class\4 Loops\for Loop> .\a.exe
+13233343
+14243444
+PS G:\C\Class\4 Loops\for Loop> gcc nested_for_num.c
+PS G:\C\Class\4 Loops\for Loop> .\a.exe
+1234
+1234
+1234
+1234
+PS G:\C\Class\4 Loops\for Loop> gcc nested_for_num.c
+PS G:\C\Class\4 Loops\for Loop> .\a.exe
+1111
+2222
+3333
+4444

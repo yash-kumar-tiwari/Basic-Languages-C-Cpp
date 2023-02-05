@@ -1,0 +1,5 @@
+PS G:\C\Class\Practice> gcc assignment_operator.c
+PS G:\C\Class\Practice> .\a.exe
+Your Age is 24
+Your Marks are 96.699997
+Character is Y

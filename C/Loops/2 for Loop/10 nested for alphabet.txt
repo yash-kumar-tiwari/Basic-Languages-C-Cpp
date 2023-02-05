@@ -1,0 +1,14 @@
+PS G:\C\Class\4 Loops\for Loop> gcc nested_for_alphabet.c
+PS G:\C\Class\4 Loops\for Loop> .\a.exe
+AAAAA
+BBBBB
+CCCCC
+DDDDD
+EEEEE
+PS G:\C\Class\4 Loops\for Loop> gcc nested_for_alphabet.c
+PS G:\C\Class\4 Loops\for Loop> .\a.exe
+ABCDE
+ABCDE
+ABCDE
+ABCDE
+ABCDE

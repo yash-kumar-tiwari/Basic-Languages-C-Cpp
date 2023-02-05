@@ -1,0 +1,24 @@
+PS G:\C\Class\Practice> gcc relational_operator.c
+PS G:\C\Class\Practice> .\a.exe
+Enter Value X and Y : 
+11
+10
+Result of Relational > : 1
+Result of Relational < : 0
+Result of Relational >= : 1
+Result of Relational <= : 0
+Result of Relational == : 0
+Result of Relational != : 1
+
+
+PS G:\C\Class\Practice> gcc relational_operator.c
+PS G:\C\Class\Practice> .\a.exe
+Enter Value X and Y : 
+10
+11
+Result of Relational > : 0
+Result of Relational < : 1
+Result of Relational >= : 0
+Result of Relational <= : 1
+Result of Relational == : 0
+Result of Relational != : 1

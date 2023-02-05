@@ -1,0 +1,16 @@
+PS G:\C\Class\2 Control Structure> gcc div_test.c
+PS G:\C\Class\2 Control Structure> .\a.exe
+Enter Value n:
+Divisible by Both 5 and 8
+PS G:\C\Class\2 Control Structure> .\a.exe
+Enter Value n:
+48
+divisible by 8
+PS G:\C\Class\2 Control Structure> .\a.exe
+Enter Value n:
+45
+divisible by 5
+PS G:\C\Class\2 Control Structure> .\a.exe
+Enter Value n:
+54
+divisible by none

@@ -1,0 +1,22 @@
+PS G:\C\Class\3 Switch> gcc switch_calc.c
+PS G:\C\Class\3 Switch> .\a.exe
+Press 2 For Subtraction
+Press 3 For Multiplication
+Press 4 For Division
+Enter Your Choice
+1
+Enter Value A and B
+15
+10
+Addition=25
+PS G:\C\Class\3 Switch> .\a.exe
+Press 1 For Addition
+Press 2 For Subtraction
+Press 3 For Multiplication
+Press 4 For Division
+Enter Your Choice
+3
+Enter Value A and B
+15
+10
+Multiplication=150

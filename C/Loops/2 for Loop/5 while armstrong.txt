@@ -1,0 +1,8 @@
+PS G:\C\Class\4 Loops> .\a.exe
+Enter Number:
+153
+Number is Armstrong
+PS G:\C\Class\4 Loops> .\a.exe
+Enter Number: 
+154
+Not Armstrong

@@ -1,0 +1,9 @@
+PS G:\C\Class\Practice\Operators> gcc area_of_tri.c   
+PS G:\C\Class\Practice\Operators> .\a.exe
+Enter Side A : 
+12
+Enter Side B : 
+15
+Enter Side C : 
+25
+Area of Circle = 63.277168

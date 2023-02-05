@@ -1,0 +1,9 @@
+PS G:\C\Class\4 Loops> gcc while_fabonacci.c
+PS G:\C\Class\4 Loops> .\a.exe
+Enter Length of Series:
+5
+0       1       1       2       3
+PS G:\C\Class\4 Loops> .\a.exe
+Enter Length of Series: 
+9
+0       1       1       2       3       5       8       13      21

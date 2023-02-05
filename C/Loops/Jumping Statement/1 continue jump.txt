@@ -1,0 +1,4 @@
+PS G:\C\Class\4 Loops\Jumping Statement> gcc continue.c
+PS G:\C\Class\4 Loops\Jumping Statement> .\a.exe       
+i=1 j=2
+i=2 j=1

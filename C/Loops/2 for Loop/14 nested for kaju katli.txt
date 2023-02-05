@@ -1,0 +1,14 @@
+PS G:\C\Class\4 Loops\2 for Loop> gcc nested_for_kaju_katli.c
+PS G:\C\Class\4 Loops\2 for Loop> .\a.exe
+Enter N Value
+5
+    *  
+   * * 
+  * * * 
+ * * * *
+* * * * *
+* * * * *
+ * * * *
+  * * *
+   * *
+    *

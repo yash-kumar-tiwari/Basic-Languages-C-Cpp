@@ -1,0 +1,10 @@
+PS G:\C\Class\Practice> gcc bitwise_operator.c
+PS G:\C\Class\Practice> .\a.exe
+Enter Value A and B : 
+60
+13
+Result of Bitwise & = : 12
+Result of Bitwise | : 61
+Result of Bitwise ^ : 49
+Result of Bitwise << = : 240
+Result of Bitwise >> = : 15

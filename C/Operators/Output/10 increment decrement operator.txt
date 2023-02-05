@@ -1,0 +1,10 @@
+PS G:\C\Class\Practice> gcc increment_decrement_operator.c
+PS G:\C\Class\Practice> .\a.exe
+Value of A=8
+Value of B=8
+Value of A=9
+Value of B=7
+Value of A=9
+Value of B=7
+Value of A=8
+Value of B=8

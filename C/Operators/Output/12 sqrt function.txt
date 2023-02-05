@@ -1,0 +1,9 @@
+PS G:\C\Class\Practice\Operators> gcc sqrt_func.c
+PS G:\C\Class\Practice\Operators> .\a.exe        
+Enter Value A :
+12
+Enter Value B :
+15
+Enter Value C :
+25
+Area of Triangle :63

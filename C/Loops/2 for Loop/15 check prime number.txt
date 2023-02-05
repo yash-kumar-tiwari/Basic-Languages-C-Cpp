@@ -1,0 +1,16 @@
+PS G:\C\Class\4 Loops\2 for Loop> 
+PS G:\C\Class\4 Loops\2 for Loop> .\a.exe
+Enter Number to check:
+Non Prime Number
+PS G:\C\Class\4 Loops\2 for Loop> .\a.exe
+Enter Number to check:
+7
+Prime Number
+PS G:\C\Class\4 Loops\2 for Loop> .\a.exe
+Enter Number to check:
+79
+Prime Number
+PS G:\C\Class\4 Loops\2 for Loop> .\a.exe
+Enter Number to check:
+78
+Non Prime Number

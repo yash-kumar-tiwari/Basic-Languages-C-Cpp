@@ -1,0 +1,10 @@
+PS G:\C\Class\Practice> gcc logical_operator.c
+PS G:\C\Class\Practice> .\a.exe
+Enter Value A and B : 
+5
+4
+3
+4
+Result of AND && : 1
+Result of || : 1
+Result of ! : 0

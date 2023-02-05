@@ -1,0 +1,8 @@
+PS G:\C\Class\4 Loops\for Loop> gcc nested_for_star.c   
+PS G:\C\Class\4 Loops\for Loop> .\a.exe
+*****
+*****
+*****
+*****
+*****
+*****

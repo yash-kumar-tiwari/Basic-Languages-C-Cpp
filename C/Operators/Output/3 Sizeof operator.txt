@@ -1,0 +1,22 @@
+PS G:\C\Class\Practice> gcc sizeof.c
+PS G:\C\Class\Practice> .\a.exe
+Size of Char = 1        
+Size of Int = 4
+Size of Float = 4       
+Size of Double = 8      
+Size of Long Double = 16
+PS G:\C\Class\Practice> gcc sizeof.c
+PS G:\C\Class\Practice> .\a.exe     
+Size of Char = 1
+Size of Int = 4  
+Size of Float = 4
+Size of Double = 8
+Size of Long Double = 16
+Size of Long Int = 4
+Size of Short Int = 2
+Size of Unsigned Short int = 2
+Size of Signed Short int = 2
+Size of Long Long int = 8
+Size of Unsigned Long int = 4
+Size of Signed Long int = 4
+Size of Unsigned Long Long int = 8

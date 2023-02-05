@@ -1,0 +1,10 @@
+PS G:\C\Class\Practice\Operators> gcc area_of_circle.c
+PS G:\C\Class\Practice\Operators> .\a.exe
+Enter Radius :
+5
+Area of Circle = 78.500000
+PS G:\C\Class\Practice\Operators> gcc area_of_circle.c
+PS G:\C\Class\Practice\Operators> .\a.exe
+Enter Radius : 
+7.2
+Area of Circle = 162.777588

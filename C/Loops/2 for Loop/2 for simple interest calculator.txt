@@ -1,0 +1,22 @@
+PS G:\C\Class\4 Loops> gcc while_si_calc.c
+PS G:\C\Class\4 Loops> .\a.exe
+How Many Times You Want To Calculate Simple Interest: 
+3
+Enter Principle, Rate, Time:
+1000 
+10
+10
+Simple Interest:1000.000000
+Amount:2000.000000
+Enter Principle, Rate, Time:
+1000
+10
+1
+Simple Interest:100.000000
+Amount:1100.000000
+Enter Principle, Rate, Time:
+1000
+10
+5
+Simple Interest:500.000000
+Amount:1500.000000

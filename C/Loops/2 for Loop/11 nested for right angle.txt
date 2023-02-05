@@ -1,0 +1,14 @@
+PS G:\C\Class\4 Loops\for Loop> gcc nested_for_right_angle.c
+PS G:\C\Class\4 Loops\for Loop> .\a.exe
+*
+**
+***
+****
+*****
+PS G:\C\Class\4 Loops\for Loop> gcc nested_for_right_angle.c
+PS G:\C\Class\4 Loops\for Loop> .\a.exe
+*****
+****
+***
+**
+*

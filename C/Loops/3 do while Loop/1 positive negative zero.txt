@@ -1,0 +1,47 @@
+PS G:\C\Class\4 Loops\3 do while Loop> gcc pos_neg_zero.c 
+PS G:\C\Class\4 Loops\3 do while Loop> .\a.exe
+Enter Number
+5
+Do you want to Enter More Number
+ Press 1 For YES 
+ Press 0 For NO
+1
+Enter Number
+0
+Do you want to Enter More Number
+ Press 1 For YES
+ Press 0 For NO
+1
+Enter Number
+-7
+Do you want to Enter More Number
+ Press 1 For YES
+ Press 0 For NO
+1
+Enter Number
+9
+Do you want to Enter More Number
+ Press 1 For YES
+ Press 0 For NO
+1
+Enter Number
+7
+Do you want to Enter More Number
+ Press 1 For YES
+ Press 0 For NO
+1
+Enter Number
+-2
+Do you want to Enter More Number
+ Press 1 For YES
+ Press 0 For NO
+1
+Enter Number
+7
+Do you want to Enter More Number
+ Press 1 For YES
+ Press 0 For NO
+0
+Count of Positive No. : 4
+Count of Negative No. : 2
+Count of Zeroes : 1

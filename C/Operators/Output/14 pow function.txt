@@ -1,0 +1,14 @@
+PS G:\C\Class\Practice\Operators> gcc pow_func.c
+PS G:\C\Class\Practice\Operators> .\a.exe       
+Enter Value :
+5
+Enter Power :
+5
+Answer is : 3125
+PS G:\C\Class\Practice\Operators> gcc pow_func.c
+PS G:\C\Class\Practice\Operators> .\a.exe       
+Enter Value :
+2
+Enter Power :
+10
+Answer is : 1024

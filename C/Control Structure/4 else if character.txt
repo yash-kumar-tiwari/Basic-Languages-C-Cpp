@@ -1,0 +1,16 @@
+PS G:\C\Class\2 Control Structure> gcc else_if_character.c
+PS G:\C\Class\2 Control Structure> .\a.exe
+Enter Character:
+You Entered an Upper Case Character
+PS G:\C\Class\2 Control Structure> .\a.exe
+Enter Character:
+a
+You Entered an Lower Case Character
+PS G:\C\Class\2 Control Structure> .\a.exe
+Enter Character:
+5
+You Entered an Number
+PS G:\C\Class\2 Control Structure> .\a.exe
+Enter Character:
+&
+Special Character

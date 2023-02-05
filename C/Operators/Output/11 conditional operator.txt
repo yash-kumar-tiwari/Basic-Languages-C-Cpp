@@ -1,0 +1,10 @@
+PS G:\C\Class\Practice> gcc conditional_operator.c
+PS G:\C\Class\Practice> .\a.exe
+Enter Value of A and B :5
+4
+A is Big
+PS G:\C\Class\Practice> gcc conditional_operator.c
+PS G:\C\Class\Practice> .\a.exe
+Enter Value of A and B :4
+5
+B is Big

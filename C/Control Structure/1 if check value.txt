@@ -1,0 +1,13 @@
+Enter Value N :
+-5
+Entered Number is Negative
+PS G:\C\Class\Practice\Control Structure> gcc if_chk_val.c
+PS G:\C\Class\Practice\Control Structure> .\a.exe
+Enter Value N :
+5
+Entered Number is Positive
+PS G:\C\Class\Practice\Control Structure> gcc if_chk_val.c
+PS G:\C\Class\Practice\Control Structure> .\a.exe
+Enter Value N :
+0
+Entered Number is Zero

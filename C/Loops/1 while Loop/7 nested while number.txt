@@ -1,0 +1,8 @@
+PS G:\C\Class\4 Loops\1 while Loop> gcc nested_while_num.c
+PS G:\C\Class\4 Loops\1 while Loop> .\a.exe
+i=1 j=1 sum=2
+i=1 j=2 sum=3
+i=2 j=1 sum=3
+i=2 j=2 sum=4
+i=3 j=1 sum=4
+i=3 j=2 sum=5

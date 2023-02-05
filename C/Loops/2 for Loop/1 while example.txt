@@ -1,0 +1,12 @@
+PS G:\C\Class\4 Loops> gcc while_example.c
+PS G:\C\Class\4 Loops> .\a.exe
+Value of i = 1
+Good Morning  
+Value of i = 2
+Good Morning  
+Value of i = 3
+Good Morning
+Value of i = 4
+Good Morning
+Value of i = 5
+Good Morning

@@ -1,0 +1,19 @@
+PS G:\C\Class\Practice\Control Structure> gcc if_else_nested.c
+PS G:\C\Class\Practice\Control Structure> .\a.exe
+Enter Value A, B, C :
+5
+C is Big
+PS G:\C\Class\Practice\Control Structure> gcc if_else_nested.c
+PS G:\C\Class\Practice\Control Structure> .\a.exe
+Enter Value A, B, C :
+9
+7
+5
+A is Big
+PS G:\C\Class\Practice\Control Structure> gcc if_else_nested.c
+PS G:\C\Class\Practice\Control Structure> .\a.exe
+Enter Value A, B, C :
+4
+8
+6
+B is Big

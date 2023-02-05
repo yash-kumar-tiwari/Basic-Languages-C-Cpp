@@ -1,0 +1,13 @@
+PS G:\C\Class\4 Loops> gcc while_factorial.c
+PS G:\C\Class\4 Loops> .\a.exe
+Enter Number to Calculate Factorial:
+5
+PS G:\C\Class\4 Loops> gcc while_factorial.c
+PS G:\C\Class\4 Loops> .\a.exe
+Enter Number to Calculate Factorial:
+5
+Factorial:120
+PS G:\C\Class\4 Loops> .\a.exe
+Enter Number to Calculate Factorial: 
+4
+Factorial:24

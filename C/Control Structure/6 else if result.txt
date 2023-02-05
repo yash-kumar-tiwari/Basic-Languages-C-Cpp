@@ -1,0 +1,45 @@
+PS G:\C\Class\2 Control Structure> gcc else_if_result.c
+PS G:\C\Class\2 Control Structure> .\a.exe
+Enter Marks of All Subjects :
+80
+80
+90
+50
+You Passed with First Division
+PS G:\C\Class\2 Control Structure> .\a.exe
+Enter Marks of All Subjects :
+50
+60
+70
+80
+You Passed with First Division
+PS G:\C\Class\2 Control Structure> .\a.exe
+Enter Marks of All Subjects :
+60
+60
+50
+70
+You Passed with Second Division
+PS G:\C\Class\2 Control Structure> .\a.exe
+Enter Marks of All Subjects :
+55
+60
+40
+45
+You Passed with Second Division
+PS G:\C\Class\2 Control Structure> .\a.exe
+Enter Marks of All Subjects :
+50
+4
+40
+60
+90
+You Passed with Third Division
+PS G:\C\Class\2 Control Structure> .\a.exe
+Enter Marks of All Subjects :
+40
+35
+30
+35
+33
+Sorry You Does not Passed in Exam

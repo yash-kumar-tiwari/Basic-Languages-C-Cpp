@@ -1,0 +1,13 @@
+Enter Your Age :
+18
+Yes You're eligible for Voting Rights
+PS G:\C\Class\Practice\Control Structure> gcc if_else_voting.c
+PS G:\C\Class\Practice\Control Structure> .\a.exe
+Enter Your Age :
+21
+Yes You're eligible for Voting Rights
+PS G:\C\Class\Practice\Control Structure> gcc if_else_voting.c
+PS G:\C\Class\Practice\Control Structure> .\a.exe
+Enter Your Age :
+17
+Sorry You're Not Eligible for Voting Rights

@@ -1,0 +1,10 @@
+PS G:\C\Class\Practice> gcc escape_sequences.c
+PS G:\C\Class\Practice> .\a.exe
+Welcome User
+Welcome  User
+Welcom User
+ Userme
+Welcome User, How are You
+♂I am Fine
+"Welcome User"
+Welcome\User

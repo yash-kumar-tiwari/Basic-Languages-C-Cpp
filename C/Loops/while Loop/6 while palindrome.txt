@@ -1,0 +1,9 @@
+PS G:\C\Class\4 Loops> gcc while_palindrome.c
+PS G:\C\Class\4 Loops> .\a.exe
+Enter Number:
+121
+Palindrome
+PS G:\C\Class\4 Loops> .\a.exe
+Enter Number: 
+154
+Not a Palindrome

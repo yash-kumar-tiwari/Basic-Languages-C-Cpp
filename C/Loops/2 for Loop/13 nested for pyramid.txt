@@ -1,0 +1,9 @@
+PS G:\C\Class\4 Loops\for Loop> gcc nested_for_pyramid.c    
+PS G:\C\Class\4 Loops\for Loop> .\a.exe
+Enter N Value
+5
+    * 
+   * *
+  * * *
+ * * * *
+* * * * *

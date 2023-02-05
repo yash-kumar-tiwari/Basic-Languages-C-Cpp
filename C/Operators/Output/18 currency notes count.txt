@@ -1,0 +1,14 @@
+PS G:\C\Class\Practice\Operators> gcc currency_notes_count.c
+PS G:\C\Class\Practice\Operators> .\a.exe
+Enter Number :
+26847391
+13423 Notes of 2000
+2 Notes of 500
+1 Notes of 200
+1 Notes of 100
+1 Notes of 50
+2 Notes of 20
+0 Notes of 10
+0 Coins of 5
+0 Coins of 2
+1 Coins of 1

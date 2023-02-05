@@ -1,0 +1,20 @@
+PS G:\C\Class\Practice\Operators> gcc swapping_wo3rd.c 
+78
+98
+Value of A and B Before Swapping:
+Enter Value A :78
+Enter Value B :98
+Value of A and B After Swapping:
+Enter Value A :98
+Enter Value B :78
+PS G:\C\Class\Practice\Operators> gcc swapping_wo3rd.c
+PS G:\C\Class\Practice\Operators> .\a.exe
+Enter Value A and B :
+45
+65
+Value of A and B Before Swapping:
+Enter Value A :45
+Enter Value B :65
+Value of A and B After Swapping:
+Enter Value A :65
+Enter Value B :45

@@ -1,0 +1,13 @@
+PS G:\C\Class\2 Control Structure> gcc else_if_vow_con.c
+PS G:\C\Class\2 Control Structure> .\a.exe
+Enter Character :
+A
+You Entered An Vowel
+PS G:\C\Class\2 Control Structure> .\a.exe
+Enter Character :
+r
+You Entered An Consonant
+PS G:\C\Class\2 Control Structure> .\a.exe
+Enter Character :
+a
+You Entered An Vowel
